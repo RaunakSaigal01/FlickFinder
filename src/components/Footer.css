@@ -1,0 +1,94 @@
+.footer {
+  color: #fff;
+  padding: 40px 20px 20px 20px;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 -4px 6px rgba(255, 255, 255, 0.8);
+}
+
+.footer-sections {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.footer-column {
+  flex: 1;
+  min-width: 200px;
+  margin: 10px;
+}
+
+.footer-column h3 {
+  color: #00ffc4;
+  margin-bottom: 15px;
+}
+
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.footer-column input[type="email"] {
+  width: 90%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  border: none;
+}
+
+.privacy {
+  font-size: 0.85rem;
+  margin-bottom: 10px;
+}
+
+.privacy label span {
+  color: #00ffc4;
+  cursor: pointer;
+}
+
+.footer-column button {
+  background-color: #00ffc4;
+  color: #000;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.footer-bottom {
+  border-top: 1px solid #444;
+  padding-top: 15px;
+  text-align: center;
+}
+
+.footer-bottom p {
+  margin-top: 10px;
+}
+
+.footer-bottom a {
+  color: #00ffc4;
+  text-decoration: none;
+}
+
+.social-icons {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.social-icons i {
+  margin: 0 10px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.social-icons i:hover {
+  color: #00ffc4;
+}
+input{
+    background-color: #000;
+}

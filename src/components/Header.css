@@ -1,0 +1,15 @@
+.header{
+    align-items: center;
+    top: 0;
+}
+.heading{
+    top: 0;
+    align-self: center;
+}
+.header-title {
+  color: #00ffcc;
+  font-size: 50px;
+  margin-bottom: 30px;
+  text-shadow: 2px 2px 5px #000;
+  text-align: center;
+}
